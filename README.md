@@ -11,16 +11,16 @@ Software:           XAMPP
 
 ![Image 30-09-22 at 2 39 PM](https://user-images.githubusercontent.com/66518337/193235938-32f8645f-afab-409f-b0a9-fe6e4a52c61b.jpg)
 
-Firstly download the 
-XAMPP for Windows or MAC
-Open PHPMyAdmin (http://localhost/phpmyadmin)
-create database here.
-After setting up the whole project:-
+-> Firstly download
+-> XAMPP for Windows or MAC
+-> Open PHPMyAdmin (http://localhost/phpmyadmin)
+-> Create database here.
+-> After setting up the whole project:-
 -> Run the script http:/document_sharing
 **LOGIN DETAILS** 
 
 Admin:-
-user: admin@admin.com
-pass: admin123
+->user: admin@admin.com
+->pass: admin123
 
 We can create our own user.

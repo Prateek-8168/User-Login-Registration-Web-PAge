@@ -13,7 +13,13 @@ Software:           XAMPP
 
 -> Firstly download
 -> XAMPP for Windows or MAC
+
+![Image 30-09-22 at 2 52 PM](https://user-images.githubusercontent.com/66518337/193239087-5202a933-4003-49da-8bcb-1ac176207232.jpg)
+
 -> Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+![Image 30-09-22 at 2 51 PM](https://user-images.githubusercontent.com/66518337/193239133-e6ac8b6a-d6cc-4cb4-b549-a5e47e2f5184.jpg)
+
 -> Create database here.
 -> After setting up the whole project:-
 -> Run the script http:/document_sharing
